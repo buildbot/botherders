@@ -1,0 +1,4 @@
+conservancy/fsa/*.aux
+conservancy/fsa/*.log
+conservancy/fsa/*.dvi
+conservancy/fsa/*.pdf
