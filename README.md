@@ -11,3 +11,4 @@ Members
  * Tom Prince
  * Amar Takhar
  * Pierre Tardy
+ * Jared Grubb
