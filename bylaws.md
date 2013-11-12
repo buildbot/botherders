@@ -24,8 +24,8 @@ The Buildbot Oversight Committee is also known as the "Botherders".
 
 The current Committee Members are enumerated in the ``README.md`` file in the ``botherders`` git repository, hosted at https://github.com/buildbot/botherders.
 
-Section 2. Represenative to Conservancy
----------------------------------------
+Section 2. Representative to Conservancy
+----------------------------------------
 
 One member of the Committee shall be designated as the representative to Software Freedom Conservancy (the Representative).
 That member is responsible for informing Conservancy of any changes in the Committee composition, or any other information that may be relevant to Conservancy.
