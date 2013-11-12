@@ -39,9 +39,9 @@ The common abbreviations "+1" and "-1" are also acceptable.
 
 The vote is complete when any of
 
- 1. a plurality of the Committee members have voted "yea"
- 2. a plurality of the Committee members have voted "nay"
- 3. two weeks have elapsed since the vote was requested, in which case the motion passes only if a plurality of the Committee members have voted and a majority of the votes are "yea"
+ 1. a majority of the Committee members have voted "yea"
+ 2. a majority of the Committee members have voted "nay"
+ 3. two weeks have elapsed since the vote was requested, in which case the motion passes only if a majority of the Committee members have voted and a plurality of the votes are "yea"
 
 The Representative will record the request, members' votes, and the result in the ``botherders`` git repository.
 
