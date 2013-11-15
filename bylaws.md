@@ -61,15 +61,15 @@ Section 6. Amendments to Bylaws
 
 These bylaws may be amended by the Committee at any time.
 
-Article III. Conflict Resolution
-================================
+Article III. Dispute Resolution
+===============================
 
 Section 1. Internal Resolution
 ------------------------------
 
-Any conflicts that arise between members of the Committee or contributors to Buildbot will typically be handled by the Committee.
+Any disputes that arise between members of the Committee or contributors to Buildbot will typically be handled in an ad-hoc fashion by the Committee.
 Contributors or Committee members are invited to record a grievance by emailing the Botherders mailing list, including the word "[GRIEVANCE]" in the subject.
-The Committee will keep Conservancy appraised of the status of conflicts during the resolution process.
+The Committee will keep Conservancy appraised of the status of disputes during the resolution process.
 
 In the event that no satisfactory resolution can be reached, the Representative will request investigation and assistance from Conservancy.
 Conservancy's decisions shall be considered binding on the Committee.
