@@ -1,0 +1,92 @@
+Actions:
+ - botherders mailing list (AMAR) (DONE)
+ - bb-users mailing list (AMAR, wait for hardware)
+ - botherders git repo (DUSTIN) (DONE)
+ - bylaws (in repo) (DUSTIN) (DONE)
+ - add Jared to Botherders, with a vote (DUSTIN) (DONE)
+ - print stickers (DUSTIN) (DONE)
+ - print shirts (DUSTIN)
+ - install and configure new server hardware (AMAR)
+ - set up donate button (DUSTIN) (DONE)
+
+Goals:
+ - broaden long-term participation and leadership in the project
+ - improve buildbot users' experience
+
+Timeline:
+ - announce Conservancy membership
+ - announce hardware installation
+ - 0.8.9 release
+ - migration to buildbot-users
+ - press release for swag shipments
+
+Ideas:
+ - ship swag to top 25ish contributors
+ - get more swag
+   - mousepad?
+   - acrylic widgets?
+   - engraved stainless nuts
+ - "open positions" list (related to MAINTAINERS.txt?)
+ - host a triage-a-thon
+ - gamification - highscore w/ badges or leaderboard or both
+ - bounties
+ - fellowships
+   - specifically a nine fellowship, soon
+ - buildbot conference
+ - EngineHere for "office hours"
+ - build out system to run buildbot in buildbot (get someone else to do this)
+ - Technical
+   - FTP server for historical downloads
+   - Backups ot Blu-ray and Amazon S3
+   - Locally hosted mailing lists
+   - Locally hosted git repository
+   - Locally hosted stackoverflow-type service
+   - VMs running a variety of operating systems and Python versions
+   - Locally hosted Trac
+   - Locally hosted buildbot.net
+   - Locally hosted Bulidmaster
+   - Locally hosted IRC logs
+   - Locally hosted "latest" buildmasters (one for master, one for nine)
+   - Demo hosting for nine buildmaster (work with tardyp)
+
+Initial Meeting:
+
+    bylaws that balance handling risk versus being complex and acting as a barrier for people entering the project.
+
+    SFC and above is legal protection
+
+    If we follow something loosely coupled with this it will be easier to manage.
+
+    create a structure in the project that will encourge members to head sub-projects within the project.
+
+    bi weekly status reports for a project leader.  If someone takes over a task they must send reports every 2 weeks.
+
+Jobs:
+
+    bountry program
+
+    fellowships
+
+    press rep / marketing
+
+    conference manager
+
+    admin(s) for GSoC and other programs (OPW, Sockis)
+
+    it manager (amar)
+
+    bugmeister (also triage)
+
+    handling contributions / review and merging process
+
+    release manager
+
+    secretary
+
+    treasurer / money manager (dustin)
+
+    vice president
+
+    president
+
+
