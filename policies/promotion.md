@@ -43,5 +43,5 @@ IRC Voice (+v)
 The "+" prefix to nicknames in IRC indicates someone who has demonstrated a commitment to supporting other users.
 It doesn't grant any additional capabilities, but serves as a recognition of their contribution.
 
-Dustin, or anyone with ops in the channel, can add this flag.
+Dustin, or anyone with ops in the channel, can add this flag with the chanserv command `flags #buildbot $nick +V`.
 Nominations by others in the channel (via PM) are appreciated.
