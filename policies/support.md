@@ -10,7 +10,7 @@ Security Releases
 =================
 
 The exception is for security releases - security patches will be made available for as many previous versions as possible or practical.
-See https://github.com/buildbot/botherders/blob/master/policies/security.md for more.
+See the [security policy](https://github.com/buildbot/botherders/blob/master/policies/security.md) for more.
 
 Consequences
 ============
