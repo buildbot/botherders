@@ -51,7 +51,7 @@ Python 3
 
 As Python 3 becomes more common, and when Twisted support for Python 3 is in place, we may consider reducing support for older versions of Python 2 in order to support Python 3.
 At this time, it may be worth considering a long-term maintenance fork (which will require an adjustment to the SupportPolicy).
-See glyph's answer [http://stackoverflow.com/questions/172306/how-are-you-planning-on-handling-the-migration-to-python-3 here] for more thoughts on the topic.
+See [glyph's answer](http://stackoverflow.com/questions/172306/how-are-you-planning-on-handling-the-migration-to-python-3) for more thoughts on the topic.
 
 Buildslave
 ==========
