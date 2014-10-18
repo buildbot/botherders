@@ -14,7 +14,7 @@ The upshot is that we can't depend by default on external services (such as a da
 Changing Requirements
 =====================
 
-When the Buildbot requirements change, the NEWS for the release should make the change clear, and also summarize the rationale for the change.
+When the Buildbot requirements change, the release notes for the release should make the change clear, and also summarize the rationale for the change.
 
 Buildmaster
 ===========
@@ -28,6 +28,7 @@ Python Packages
 ---------------
 
 All efforts should be made to support the versions of Python packages that are available in the most recent versions of common operating-system distributions.
+That is seldom the same as the newest version of that package on pypi!
 
 Where practical, compatibility with older versions should be maintained, e.g., disabling features when such older versions are detected.
 Such considerations should not substantially complicate the Buildbot source code - if the workarounds become overwhelming, consider dropping support for older versions.
@@ -43,6 +44,9 @@ Python Versions
 ---------------
 
 Because it is so difficult to upgrade to a new Python version, Buildbot's support for Python versions should remain as broad as possible.
+Again, this is more true on slaves than on masters.
+We go to great lengths to maintain Python version compatibility on slaves, while support on masters is more flexible.
+
 We will only drop support for an older version of Python when that version is no longer the default on commonly-available operating systems (e.g., Python 2.3 as of 2010) or when compatibility with that version is blocking a substantial new Buildbot feature.
 All supported versions of Python should be tested regularly by the metabuildbot, as it is very easy to accidentally use newer language features.
 
