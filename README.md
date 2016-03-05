@@ -6,8 +6,8 @@ This is the repository for documents relating to the administration of Buildbot 
 Members
 -------
 
- * Dustin J. Mitchell (Representative to Conservancy)
- * Bill Deegan
+ * Dustin J. Mitchell
+ * Bill Deegan (Representative to Conservancy)
  * Tom Prince
  * Amar Takhar
  * Pierre Tardy
