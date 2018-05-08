@@ -8,7 +8,6 @@ Members
 
  * Dustin J. Mitchell
  * Bill Deegan (Representative to Conservancy)
- * Tom Prince
  * Amar Takhar
  * Pierre Tardy
  * Jared Grubb
