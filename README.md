@@ -11,3 +11,4 @@ Members
  * Amar Takhar
  * Pierre Tardy
  * Jared Grubb
+ * Sean Kelly
