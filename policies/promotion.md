@@ -9,7 +9,7 @@ Developers will receive notice of all pull requests on github, and are expected 
 Developers also have the strongest voice in setting direction for the project.
 
 To be given commit rights, a contributor should have an established history of well-constructed patches and be willing to make a long-term commitment to the project.
-Botheders make the final determination of who will be given commit rights, but the recommendation of any other developer is very persuasive.
+Botherders make the final determination of who will be given commit rights, but the recommendation of any other developer is very persuasive.
 
 Trac Admin
 ==========
