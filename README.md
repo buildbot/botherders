@@ -12,3 +12,4 @@ Members
  * Pierre Tardy
  * Jared Grubb
  * Sean Kelly
+ * Povilas Kanapickas
